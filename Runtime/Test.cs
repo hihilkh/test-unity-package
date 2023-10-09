@@ -22,5 +22,10 @@ namespace Test.MyPackage
         {
             Debug.LogError("I am Testing.");
         }
+
+        internal void Print2()
+        {
+            Debug.LogError("I am Testing 2.");
+        }
     }
 }
